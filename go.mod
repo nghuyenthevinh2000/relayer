@@ -11,7 +11,7 @@ require (
 	github.com/google/go-github/v43 v43.0.0
 	github.com/jsternberg/zap-logfmt v1.3.0
 	github.com/juju/fslock v0.0.0-20160525022230-4d5c94c67b4b
-	github.com/nghuyenthevinh2000/fa-chain v0.0.0-20221231074224-5285219d0ad4
+	github.com/nghuyenthevinh2000/fa-chain v0.0.0-20221231091511-c55ae62cde75
 	github.com/prometheus/client_golang v1.14.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
